@@ -11,49 +11,40 @@ This course will have you reimagine a bands/music groups website. You can pick a
 You will take this band or musisc groups and create a site containing the following pages
 
 * Homepage:
-  * HTML5 fullscreen video
+  * Fullscreen background iamge
+  * HTML5 fullscreen video (Bonus)
 * About Page:
-  * List current band/group members
-  * History body text about the band/group
-  * Optional: Timeline of the band
+  * x2 large paragraphs of text
+  * x2 lists
+  * Tell me about the band I want to understand who they are and what they are about
 * Media Page:
-  * Must have at least 10 band/group photos that when clicked will have lightbox effect to larger image
-  * Must have 3 videos that are embedded from YouTube
+  * x8 thumbnail images
+  * Images must have a lightbox effect 
+  * x3 embedded YouTube Video
 * Discography Page:
   * Must display 3 different albums
     * Album cover
     * Album tracks with time stamp
     * Album details: Year released, Record Label, etc.
 * Merch Store Page:
-  * 5 store items with 2 different categories
-  * Must be able to filter the categories
-  * 1 item must link to a product page
-  * If there is not product page for item, that item will need to have an "Out of Stock"/Disabled click state
-* Merch Product Details Page:
-  * Will need to create a product page for at least 1 merch item  
+  * x6 merch items
+  * x2 categories of items
+  * Must be able to filter items
+  * If there is no product page for item(s), that item will need to have an "Out of Stock"/Disabled click state
+  * Product Page for an item (Bonus)
 * Tour Dates Page:
   * HTML Table of dates
   * Table must contain the following for each event
     * Time
     * Location
-    * Where to buy link
+    * Where to buy
     * Supporting actions
-    * Link out to venue/bar/location
+    * Link out to venue/bar/location/where to buy
 
 
 ### Course Schedule
 
-* Time: 6:30pm - 9:30pm
-* Wk 1: 3/21
-* Wk 2: 3/28
-* Wk 3: 4/4
-* Wk 4: 4/11
-* Wk 5: 4/18
-* Wk 6: 4/25
-* Wk 7: 5/2
-* Wk 8: 5/9
-* Wk 9: 5/16
-* Wk 10: 5/23
+* Time: 1:30pm - 4:30pm | Saturdays | 6/16 - 8/18
 
 ### Course Work
 
@@ -76,8 +67,6 @@ You will take this band or musisc groups and create a site containing the follow
 * Wk 9: Deploy Final Site in class
   * HW: Finalize any remaining final project items
 * Wk 10: Final Presentation
-
-### Project Scope
 
 
 ### Course Book
