@@ -72,3 +72,43 @@ You will take this band or musisc groups and create a site containing the follow
 ### Course Book
 
 [HTML5 and CSS3 Seventh Edition Visual QuickStart Guide](https://github.com/qcgm1978/html5-css3/blob/master/HTML5%20and%20CSS3%20Seventh%20Edition%20Visual%20QuickStart%20Guide.Dec.2011.pdf)
+
+### Atom Packages/Themes
+
+Adding **Packages and Themes** to Atom can be done with the following:
+
+* Mac
+  * `cmd + ,` > Install *or* Atom > Preferences > Install
+  * Select **Packages Button** or **Themes Button** next to the Search Bar
+  * Search
+* Windows
+  * `ctrl + ,` > Install *or* File > Preferences > Install
+  * Select **Packages Button** or **Themes Button** next to the Search Bar
+  * Search 
+  
+  #### Useful Packages
+  
+  * `atom-beautify`
+  * `atom-live-server`
+  * `autoclose-html`
+  * `file-icons`
+  * `pigments`
+  * `minimap`
+  
+This is a very pared-down list that will be most useful for class. There are over 7,000 packages available, so take some time to look up packages you might find useful and share with the class :). 
+  
+  #### Themes
+  
+  Themes are *entirely* optional and up to your taste. 
+  
+  I used to use 
+  * UI Theme: **Atom Material**
+  * Syntax Theme: **Atom Material Dark**
+  
+  Currently I'm using 
+  * UI Theme: **Atom Visual Studio Code**
+  * Syntax: **Atom Material Dark**
+  
+  
+  
+ 
