@@ -1,6 +1,7 @@
 # HTML5 / CSS3 Class
 
 Instructor e-mail: **steve_fuller@berkeley.edu**
+
 [Demo Site](https://www.williamsfuller.com/projects/deftones-site/)
 
 This course will have you reimagine a bands/music groups website. You can pick any band as long as the following requirements are met
