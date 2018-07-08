@@ -1,0 +1,4 @@
+Finish Designing pages (Media, Merch Tour Dates)
+Reading: Ch 12 & 14
+Make sure to start working with CSS
+Checkout codepen.io
