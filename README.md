@@ -66,6 +66,7 @@ You will take this band or musisc groups and create a site containing the follow
   * HW: Complete Homepage and Discography pages
 * Wk 8: JavaScript & jQuery
   * HW: Complete Merch Store, Product Detail, and Media pages. Build out any components requiring JavaScript (Mobile Menu, Filter, Sliders, Lightboxes, etc)
+  * [Image Share Link](https://drive.google.com/drive/folders/1hUSS0cFo8olYPWZ1Ga0gIcTG8E-409F6?usp=sharing)
 * Wk 9: Deploy Final Site in class
   * HW: Finalize any remaining final project items
 * Wk 10: Final Presentation
