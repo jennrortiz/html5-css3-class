@@ -1,0 +1,30 @@
+.lightbox-img {
+  position: relative;
+  z-index: 1;
+  margin: 10px auto 50px;
+  border-radius: 10px;
+  box-shadow: 0 35px 90px rgba(0, 0, 0, 0.4);
+  transition: all .5s ease-in-out;
+}
+
+.lightbox-img:hover {
+  z-index: 10;
+  box-shadow: 0 45px 100px rgba(0, 0, 0, 0.5);
+}
+
+.filtr-item {
+  padding: 16px;
+  /* margin-bottom: 25px; */
+}
+
+.filtr-item img{
+  margin: auto;
+}
+
+.gif-background {
+  width: 1000px;
+  height: 300px;
+  display: block;
+  margin-bottom: 200px;
+  background-image: url('../images/tenor.gif');
+}

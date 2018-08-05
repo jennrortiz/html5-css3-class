@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lightbox</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/stylesheets/lightbox.min.css" />
+  <link rel="stylesheet" href="./assets/stylesheets/our-lightbox-styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>
+          <a href="https://lokeshdhakar.com/projects/lightbox2/">
+            Lightbox Example
+          </a>
+        </h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-lg-4">
+        <a href="./assets/images/kitten-1.jpg" data-lightbox="kittens" data-title="Kitten">
+          <img class="img-responsive lightbox-image" src="./assets/images/kitten-1-thumbnail.jpg" />
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-lg-4">
+        <a href="./assets/images/puppy-1.jpg" data-lightbox="puppies" data-title="Puppy 1">
+          <img class="img-responsive lightbox-image" src="./assets/images/puppy-1-thumbnail.jpg" />
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-lg-4">
+        <a href="./assets/images/puppy-2.jpg" data-lightbox="puppies" data-title="Puppy 2">
+          <img class="img-responsive lightbox-image" src="./assets/images/puppy-2-thumbnail.jpg" />
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-lg-4">
+        <a href="./assets/images/puppy-3.jpg" data-lightbox="puppies" data-title="Puppy 3">
+          <img class="img-responsive lightbox-image" src="./assets/images/puppy-3-thumbnail.jpg" />
+        </a>
+      </div>
+    </div>
+
+
+
+
+
+
+
+  </div>
+
+
+
+
+  <!-- LOAD JQUERY -->
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <!-- LOAD LIGHTBOX -->
+  <script src="./assets/javascripts/lightbox.min.js"></script>
+
+  <!-- LIGHTBOX OPTIONS -->
+  <script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true
+    })
+  </script>
+</body>
+</html>
