@@ -14,6 +14,8 @@ Instructor e-mail: **steve_fuller@berkeley.edu**
 
 ---
 
+## About
+
 This course will have you reimagine a bands/music groups website. You can pick any band as long as the following requirements are met
 
 * Must have at least 3 albums produced
