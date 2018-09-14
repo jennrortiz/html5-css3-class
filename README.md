@@ -46,7 +46,7 @@ You will take this band or musisc groups and create a site containing the follow
 
 ### Course Schedule
 
-* Time: 1:30pm - 4:30pm | Saturdays | 6/16 - 8/18
+* Time: 6:30pm - 9:30pm | Wednesdays | 9/5 - 11/7
 
 ### Course Work
 
