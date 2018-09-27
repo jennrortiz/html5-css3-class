@@ -4,6 +4,18 @@ Instructor e-mail: **steve_fuller@berkeley.edu**
 
 [Demo Site](https://www.williamsfuller.com/projects/deftones-site/)
 
+## Quick Links
+
+* [Syllabus](https://github.com/wsfuller/html5-css3-class/blob/master/class-resources/HTML5%252FCSS3%20Syllabus.pdf)
+* [Course Schedule](#course-schedule)
+* [Course Work](#course-work)
+* [Course Book](#course-book)
+* [Atom Packages/Themes](#atom-packagesthemes)
+
+---
+
+## About
+
 This course will have you reimagine a bands/music groups website. You can pick any band as long as the following requirements are met
 
 * Must have at least 3 albums produced
@@ -46,7 +58,7 @@ You will take this band or musisc groups and create a site containing the follow
 
 ### Course Schedule
 
-* Time: 1:30pm - 4:30pm | Saturdays | 6/16 - 8/18
+* Time: 6:30pm - 9:30pm | Wednesdays | 9/5 - 11/7
 
 ### Course Work
 
