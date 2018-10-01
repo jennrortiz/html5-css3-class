@@ -52,7 +52,7 @@ You will take this band or musisc groups and create a site containing the follow
     * Time
     * Location
     * Where to buy
-    * Supporting actions
+    * Supporting acts
     * Link out to venue/bar/location/where to buy
 
 
